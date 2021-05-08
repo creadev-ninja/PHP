@@ -116,3 +116,11 @@ Copier le dossier **zodiaque/** dans **/var/www/html/**
 - Dans un navigateur : [http://localhost/zodiaque/page.php](localhost/zodiaque/page.php)
 
 - Si la liste des signes du zodiaque apparaît c'est que la connexion à la base de donnée fonctionne.
+
+#
+Téléchargez les fichiers :
+
+- [info.php](files/info.php)
+- [zodiaque/_connexion-pdo.php](files/zodiaque/_connexion-pdo.php)
+- [zodiaque/page.php](files/zodiaque/page.php)
+- [zodiaque/zodiaque-signes.sql](files/zodiaque/zodiaque-signes.sql)
