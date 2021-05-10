@@ -6,9 +6,7 @@ Technologies en jeux : PHP
 
 Vous avez besoin de l'OS Ubuntu 20 minimum installé. 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=7Urovp9dSu8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Installer la pile LAMP sur Ubuntu](https://img.youtube.com/vi/7Urovp9dSu8/0.jpg)](https://www.youtube.com/watch?v=7Urovp9dSu8)
 
 # Installation de la pile LAMP sur Ubuntu
 
