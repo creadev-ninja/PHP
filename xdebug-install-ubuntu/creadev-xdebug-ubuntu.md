@@ -74,7 +74,7 @@ Télécharger la page de test : [Téléchargez la page de test](test.php)
 
 Une capture d'écran ([Screenshot_xdebug-test.png](Screenshot_xdebug-test.png)) de ce que est sensé afficher cette page. 
 
-Placer la page de test à cet emplecement : **var/www/html/test/test.php**
+Placer la page de test à cet emplacement : **var/www/html/test/test.php**
 
 Consultable à cette URL dans le navigateur : [http://localhost/test/test.php](http://localhost/test/test.php)
 
