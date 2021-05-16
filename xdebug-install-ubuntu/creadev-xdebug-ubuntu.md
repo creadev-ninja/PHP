@@ -4,7 +4,9 @@ Fiche Développement Web
 
 Technologies en jeux : PHP
 
-Vous avez besoin de l'OS Ubuntu 20 installé avec un environnement LAMP. 
+Vous avez besoin de l'OS Ubuntu 20 minimum installé. 
+
+[![Installer la pile LAMP sur Ubuntu](https://img.youtube.com/vi/mgzZzF53W3k/0.jpg)](https://www.youtube.com/watch?v=mgzZzF53W3k) 
 
 # Installer Xdebug sur Ubuntu
 
